@@ -2,8 +2,9 @@
 
 
 <p align="center">
+   <img width="122" alt="Captura de Pantalla 2022-02-16 a la(s) 18 23 43" src="https://user-images.githubusercontent.com/39862006/154380098-c0af52f0-1c10-41ed-a127-ad3f4e42fd88.png">
   Aplicación de Calculadora en Python con Interfaz Gráfica en Tkinter
-  <img width="122" alt="Captura de Pantalla 2022-02-16 a la(s) 18 23 43" src="https://user-images.githubusercontent.com/39862006/154380098-c0af52f0-1c10-41ed-a127-   ad3f4e42fd88.png">
+ 
 </p>
 
 
