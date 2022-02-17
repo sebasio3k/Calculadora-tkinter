@@ -7,6 +7,7 @@ Aplicación de Calculadora en Python con Interfaz Gráfica en Tkinter
 **Para crear el ejecutable:**
 
 > Se instalará el paquete pyinstaler con el comando:
+
   pip install pyinstaller
   
 > A continuación en la misma ruta en que se encuentren los archivos "calculadora.py" y "calculadora.ico" ejecutar el siguiente comando:
